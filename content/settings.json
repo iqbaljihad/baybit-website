@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "BayBIT" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
