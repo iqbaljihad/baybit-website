@@ -1,7 +1,7 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "name": "BayBIT has a mailbox just for you",
+  "email": "info@baybit.tech",
+  "description": "If you can't wait to hear what amazing service awaits for you, then use any of the platforms below to contact us.",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"

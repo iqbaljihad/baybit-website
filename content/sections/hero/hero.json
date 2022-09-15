@@ -14,9 +14,5 @@
     "highlight": "BayBIT",
     "suffix": "."
   },
-  "description": "Your struggles for finding Qualified developers for your projects ends here",
-  "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
-  }
+  "description": "Your struggles for finding Qualified developers for your projects ends here"
 }

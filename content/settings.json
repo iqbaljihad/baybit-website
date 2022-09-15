@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Bay of Bengal IT, BayBIT",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Konstantin Münster",
@@ -10,25 +10,25 @@
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/baybit",
+      "medium": "https://baybit.medium.com",
+      "linkedin": "https://www.linkedin.com/in/baybit/",
+      "mail": "mailto:info@baybit.tech"
     }
   },
   "siteConfiguration": {
     "logo": { "text": "BayBIT" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
+        { "label": "About Us", "url": "/#about" },
+        { "label": "Portfolio", "url": "/#portfolio" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Career", "url": "/career" }
       ],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "openNewTab": false,
+        "label": "Contact Us",
+        "url": "/#github"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
